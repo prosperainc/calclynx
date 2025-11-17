@@ -1,2 +1,1 @@
-# calclynx
-"Calclynx: Online Calculators for Math, Statistics,Finance, and everyday use
+CALCLYNX - The world's fastest AI- powered scientific & smart calculator."
